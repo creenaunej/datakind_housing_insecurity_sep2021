@@ -11,3 +11,7 @@ conda activate geo_env
 
 python -m ipykernel install --user --name myname 
 
+juptyer notebook
+
+
+https://github.com/geopandas/geopandas/issues/1166
